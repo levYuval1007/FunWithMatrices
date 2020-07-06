@@ -1,0 +1,2 @@
+rootProject.name='FunWithMatrices'
+include ':app'
